@@ -1,4 +1,4 @@
-# Hortifruit Project 🍎🍌
+# 🍉🍍🍓 Hortifruit Project 🍎🍌🍇
 
 ## The Hortifruit Application
 
